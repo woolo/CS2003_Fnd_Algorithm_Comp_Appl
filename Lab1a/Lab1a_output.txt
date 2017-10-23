@@ -1,0 +1,4 @@
+There are 7 integers in the input file:
+5 6 -2 7 10 3 5 
+The maximum integer in the input file is 10
+total time taken: 28 milliseconds
