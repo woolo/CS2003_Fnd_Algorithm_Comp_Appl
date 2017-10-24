@@ -1,0 +1,8 @@
+* CS2033_Intro_Pgrm_Prob_Slvg
+
+A collection of projects for CS2033 as part of the TU Code Workshop.
+
+#+BEGIN_CENTER
+Schools, starting from nursery school, should tell their students, “If you bring software to school, you must share it with the other students. You must show the source code to the class, in case someone wants to learn. Therefore bringing nonfree software to class is not permitted, unless it is for reverse-engineering work.”
+-- [[https://www.gnu.org/philosophy/schools.html][Why Schools Should Exclusively Use Free Software]] by [[http://www.stallman.org/][Richard Stallman]]
+#+END_CENTER
